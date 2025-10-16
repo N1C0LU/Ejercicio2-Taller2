@@ -1,0 +1,5 @@
+Modelo\Rectangulo.class
+Vista\VistaRectangulo.class
+Modelo\Figura.class
+Modelo\Punto.class
+Controlador\ControladorRectangulo.class
